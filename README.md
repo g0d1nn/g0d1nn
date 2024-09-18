@@ -1,7 +1,7 @@
 # Olá! me chamo Pedro 👋
 
 ## Sobre mim
-- 💻 Faço estágio na **Teraware Soluções em Software e Tecnologia**, onde trabalho com desenvolvimento em PHP.
+- 💻 Faço estágio na **Teraware Soluções em Software e Internet**, onde trabalho com desenvolvimento em PHP.
 - 🎓 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac**.
 - 🌱 Estudando: HTML, CSS, JavaScript e PHP para melhorar minhas habilidades de front-end e back-end.
 
