@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! me chamo Pedro 👋
 
-<!--
-**g0d1nn/g0d1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 💻 Faço estágio na **Teraware Soluções em Software e Tecnologia**, onde trabalho com desenvolvimento em PHP.
+- 🎓 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac**.
+- 🌱 Estudando: HTML, CSS, JavaScript e PHP para melhorar minhas habilidades de front-end e back-end.
 
-Here are some ideas to get you started:
+## Tecnologias que utilizo
+- **Linguagens:**  
+  - PHP
+  - HTML5
+  - CSS3
+  - JavaScript
+  
+- **Ferramentas e Frameworks:**  
+  - Git & GitHub
+  - Bootstrap
+  - MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contato
+- 💼 LinkedIn: [https://www.linkedin.com/in/pedro-henrique-leite-godinho-57a0721b9/]
+
+
