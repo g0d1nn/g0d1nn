@@ -19,6 +19,6 @@
 
 
 ## Contato
-- 💼 LinkedIn: [https://www.linkedin.com/in/pedro-henrique-leite-godinho-57a0721b9/]
+- 💼 [LinkedIn] (https://www.linkedin.com/in/pedro-henrique-leite-godinho-57a0721b9/)
 
 
